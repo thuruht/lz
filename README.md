@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Durable Chat App
 
 ![Template Preview](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/da00d330-9a3b-40a2-e6df-b08813fb7200/public)
@@ -34,3 +35,6 @@ A live public deployment of this template is available at [https://durable-chat-
    ```bash
    npx wrangler deploy
    ```
+=======
+# lz
+>>>>>>> ee2218aae21ba8776f23feea0e23836fd955223e
